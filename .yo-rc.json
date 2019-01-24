@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GCM",
+    "packageName": "com.compsis.gcm",
+    "packageFolder": "com/compsis/gcm",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MWUyZGQ4YmI0MDQ5YWZiMWU2ZmNiYzVhOTJjNGY2N2Q1ZmM2ZDA0ZDUyM2M1MWE2ODc1ZWU0MzExYTAyNzExYTBmOWUxYzNjZWQwYmM5ZGM5YzUzZTMxNmY5MGUwZGIyM2E5YjZlMjhkZjhjNDMzYTU0ZTE0NzEwMWJkMWFkYjY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "McLuck",
+  "repository-name": "GCM"
+}
